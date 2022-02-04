@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62688994236",
+    "project_id": "yumm-1cba4",
+    "storage_bucket": "yumm-1cba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62688994236:android:36c7a6bd678002f900c1b9",
+        "android_client_info": {
+          "package_name": "com.example.yumm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62688994236-0tsq74ee692qdlmtqm75bfgbdbiimbt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yumm",
+            "certificate_hash": "4e33859071a710488d604b3879804f117e9bb6ab"
+          }
+        },
+        {
+          "client_id": "62688994236-gmi3ojftqq7nko93hedjb7o8nrcp1v6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQrUHxysN5cOGNuR7YhultJ_cBVOdpu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62688994236-gmi3ojftqq7nko93hedjb7o8nrcp1v6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
